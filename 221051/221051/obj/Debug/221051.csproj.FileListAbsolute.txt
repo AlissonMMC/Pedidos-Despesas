@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\221051\221051\bin\Debug\221051.exe.config
+C:\Users\Usuario\source\repos\221051\221051\bin\Debug\221051.exe
+C:\Users\Usuario\source\repos\221051\221051\bin\Debug\221051.pdb
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\_221051.Properties.Resources.resources
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.exe
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\221051.pdb
+C:\Users\Usuario\source\repos\221051\221051\obj\Debug\_221051.Loja.resources
